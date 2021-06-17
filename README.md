@@ -10,6 +10,7 @@ IonInstaller is a Windows 11 Developer build download. More builds will be relea
 # Table Of Contents
 1. [**About**](https://github.com/BlindsHydra/IonInstaller#about-ioninstaller)
 2. [**Installation**](https://github.com/BlindsHydra/IonInstaller#installation)
+3. [**Credits**](https://github.com/BlindsHydra/IonInstaller/blob/main/README.md#credits)
 	
 # Installation
 * Install the latest [**Release.**](https://github.com/BlindsHydra/IonInstaller/releases/tag/1.0)
