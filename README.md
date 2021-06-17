@@ -15,6 +15,11 @@ IonInstaller is a Windows 11 Developer build download. More builds will be relea
 # Installation
 * Install the latest [**Release.**](https://github.com/BlindsHydra/IonInstaller/releases/tag/1.0)
 * Open the **IonInstaller.exe** and choose your build. **[REQUIRE'S 4.5GB OF STORAGE]**
+* Once the .iso has downloaded. You will need a software called [**Rufus**](https://rufus.ie/en_US/)
+* Open [**Rufus**](https://rufus.ie/en_US/) and select your .iso file.
+	* Platform Scheme => MBR
+	* Target system => BIOS or UEFI
+* Click start and wait. Once completed put all of the files onto the USB and boot off the USB from your drive selection screen in BIOS.
 # Credits
 * **Developers**
 	* BlindsHydra
