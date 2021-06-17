@@ -1,0 +1,7 @@
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\bin\Debug\IonInstaller.exe.config
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\bin\Debug\IonInstaller.exe
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\bin\Debug\IonInstaller.pdb
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\obj\Debug\IonInstaller.csprojAssemblyReference.cache
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\obj\Debug\IonInstaller.csproj.CoreCompileInputs.cache
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\obj\Debug\IonInstaller.exe
+C:\Users\fazef\source\repos\IonInstaller\IonInstaller\obj\Debug\IonInstaller.pdb
