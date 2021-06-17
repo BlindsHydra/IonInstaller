@@ -3,6 +3,10 @@
 </p>
 <p align="center">A Windows 11 Developer Download allowing users to view the future of Windows.</p>
 <p align="center">
+<p align="center">
+	<img alt="Contributors" src="https://img.shields.io/github/contributors/BlindsHydra/IonInstaller">
+	<img alt="Version" src="https://img.shields.io/github/v/release/BlindsHydra/IonInstaller">
+</p>
 
 # About IonInstaller
 IonInstaller is a Windows 11 Developer build download. More builds will be released as they come. IonInstaller will **ONLY** be updated when new builds/bugs are found.
